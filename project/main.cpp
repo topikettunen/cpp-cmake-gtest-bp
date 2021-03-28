@@ -1,3 +1,7 @@
-#include "project/base.h"
+#include <iostream>
 
-int main(int argc, char** argv) { return project::Base::Main(argc, argv); }
+int main(int argc, char *argv[]) {
+
+  std::cout << "Hello world" << std::endl;
+  return EXIT_FAILURE;
+}

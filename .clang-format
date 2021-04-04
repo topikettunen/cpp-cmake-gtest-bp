@@ -1,9 +1,7 @@
 ---
 Language: Cpp
 BasedOnStyle: LLVM
-AccessModifierOffset: -2
 AlwaysBreakTemplateDeclarations: Yes
 BreakBeforeBraces: Stroustrup
-IndentWidth: 2
 PointerAlignment: Left
 ...
